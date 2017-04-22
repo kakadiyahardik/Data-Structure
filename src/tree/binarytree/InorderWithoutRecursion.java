@@ -1,4 +1,4 @@
-package BinaryTree;
+package tree.binarytree;
 import java.util.Stack;
 
 class Inorder

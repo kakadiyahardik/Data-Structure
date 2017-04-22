@@ -1,4 +1,4 @@
-package BinaryTree;
+package tree.binarytree;
 
 class Depth
 {
